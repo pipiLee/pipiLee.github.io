@@ -1,0 +1,15 @@
+/* 首页顶部图高度 */
+.index #page-header {
+    height: 400px !important;
+  }
+  
+  /* 其他页面顶部图高度 */
+  #page-header {
+    height: 200px !important;
+  }
+  
+  /* 文章页面单独控制 */
+  .post-details #page-header {
+    height: 250px !important;
+  }
+  
